@@ -1,3 +1,7 @@
+ficou assim:
+
+na url migrar: use time zone
+
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xml>
 <Context>
@@ -13,3 +17,5 @@
             maxPoolSize="5" 
      />
 </Context>
+
+mysql-connector-java-5.1.46-bin esse que deu certo
